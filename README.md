@@ -25,7 +25,7 @@ Shield AI is funded through various capital ventures, notably [Andreessen Horowi
 
 ## Audience
 
-Shield AI focuses exclusively on making systems for the civilian and military defense forces.
+Shield AI focuses mostly on making systems for the **civilian** and **military** defense forces.
 
 While Shield AI may not be th first defense focused AI company. There competitors, such as [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning), and [Anduril](https://www.anduril.com/), while big names in the game they don't have Shield AI's simplified vision and goal. Shield AI's [Hivemind](https://shield.ai/hivemind/) however is a world first. Being able to communicate to other AI craft autonomously.
 
