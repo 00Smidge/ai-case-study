@@ -19,13 +19,15 @@ While serving with SEAL team 5 & 7 President and co-founder [Brandon Tseng](http
 
 Shield AI is funded through various capital ventures, notably [Andreessen Horowitz](https://a16z.com/) and [Homebrew](brew.sh). Their latest [Series F funding](https://markets.businessinsider.com/news/stocks/shield-ai-raises-200m-reaching-2-7b-valuation-1032759153) has them valued at $2.7B.
 
-## Business Activities
+## Mission Statement
 
-- What specific problem is the company or project trying to solve?
+Our mission is to protect service members and civilians with intelligent systems.
 
-- Who is the company's intended customer? Is there any information about the market size of this set of customers?
+## Audience
 
-- What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Shield AI focuses exclusively on making systems for the civilian and military defense forces.
+
+Shield AI seems to be the first defense focused AI company. While there are other companies in defense that have AI division such as [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning), and [Anduril](https://www.anduril.com/)
 
 - Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -54,3 +56,7 @@ Shield AI is funded through various capital ventures, notably [Andreessen Horowi
 - What technologies would this additional product or service utilize?
 
 - Why are these technologies appropriate for your solution?
+
+### Extra Sources
+
+- [Tracxn](https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk)
