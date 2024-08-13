@@ -70,14 +70,29 @@ In September of 2023 Shield AI announced they had successfully completed a demon
 
 ## Recommendations
 
-If I were to give any suggestion to Shield AI it would be to simply
+One thing that I find missing from Shield AI's impressive portfolio is how to give the same ability to operate autonomously, without communications or gps, and in a hivemind capacity to the actual soldiers themselves.
 
 - Why do you think that offering this product or service would benefit the company?
 
+It is not hard to imagine that one or all the devices in a V-BAT or Nova-2 deployment get destroyed. What intelligence do the soldiers have to rely on?
+
 - What technologies would this additional product or service utilize?
+
+Shield AI would only have to utilize the IP they already have for their drones and apply it to the soldier. Similar to how they [teamed an AI with a human pilot using the F-16](https://shield.ai/jets/).
 
 - Why are these technologies appropriate for your solution?
 
-### Extra Sources
+Shield AI has already shown they are capable of extending the use life of legacy war planes by augmenting them with their hivemind AI as a co-pilot. They technology they have already created has the potential to totally revolutionize war fare in unimaginable ways.
+
+### Sources
 
 - [Tracxn](https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk)
+- [Shield AI](https://shield.ai/jets/)
+- [Anduril Industries](https://www.anduril.com/)
+- [AeroVironment](https://www.avinc.com/)
+- [Skydio](https://www.skydio.com/)
+- [Newspace Research and Technologies](https://newspace.co.in/)
+- [XTEND](https://www.xtend.me/) -[autonomous vehicles](https://www.tesla.com/) -[AI in surveillance](https://smartsentryai.com/) -[deep tech](https://builtin.com/artificial-intelligence/deep-tech) -[Series F funding](https://markets.businessinsider.com/news/stocks/shield-ai-raises-200m-reaching-2-7b-valuation-1032759153)
+- [Andreessen Horowitz](https://a16z.com/)
+- [Homebrew](brew.sh)
+- [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning)
