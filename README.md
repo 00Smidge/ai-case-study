@@ -21,7 +21,7 @@ Shield AI is funded through various capital ventures, notably [Andreessen Horowi
 
 ## Mission Statement
 
-Our mission is to protect service members and civilians with intelligent systems.
+"Our mission is to protect service members and civilians with intelligent systems."
 
 ## Audience
 
@@ -30,10 +30,15 @@ Shield AI focuses exclusively on making systems for the civilian and military de
 While Shield AI may not be th first defense focused AI company. There competitors, such as [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning), and [Anduril](https://www.anduril.com/), while big names in the game they don't have Shield AI's simplified vision and goal. Shield AI's [Hivemind](https://shield.ai/hivemind/) however is a world first. Being able to communicate to other AI craft autonomously.
 
 - Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+- [Sentient Tracker](https://shield.ai/sentient-tracker/)
+- [ViDAR](https://shield.ai/vidar/)
+- [Hivemind](https://shield.ai/hivemind/)
+- [V-Bat](https://shield.ai/v-bat/)
+- [Nova-2](https://shield.ai/nova-2/)
 
 ## Landscape
 
-Shield AI field of chose is civilian and military defense
+Shield AI mainly focuses on civilian and military defense but their scope extends to [deep tech](https://builtin.com/artificial-intelligence/deep-tech), Military Drones, Unmanned Surveillance Vehicles, and Drone Surveillance
 
 ## Industry Trends
 
@@ -47,11 +52,21 @@ Over the last 10 years AI and military defense have seen dramatic changes. Mostl
 
 - [Skydio](https://www.skydio.com/): Mostly known for making consumer drones Skydio also has defense contracts
 
+- [Newspace Research and Technologies](https://newspace.co.in/): Fastest growing aerospace and defense R&D company to come out of India
+
+- [XTEND](https://www.xtend.me/): Developes solutions for complex multi-mission objectives including pick-n-drops, vision assistance, and semi-autonomous interceptions
+
 ## Results
 
-- What has been the business impact of this company so far?
+Shield AI currently holds 10% of the market share in military and autonomous drone industry.
 
-- What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+Shield AI has directly impacted the speed of military adoption. Their focus on creating fully autonomous AI devices that was work even in environments where GPS and communications are being jammed. This greatly increases the safety, ability, and engagement awareness for soldiers or police on the ground.
+
+In September of 2023 Shield AI announced they had successfully completed a demonstration of their V-BATs Teaming protocol. Thus securing their next round of [AFWERX](https://afwerx.com/) Strategic Funding.
+
+## Competitive Metrics
+
+![Metric comparing Shield AI to Anduril, Northrop Grumman, and XTEND](./Screenshot%202024-08-13%20at%2009.32.09.png)
 
 - How is your company performing relative to competitors in the same field?
 
