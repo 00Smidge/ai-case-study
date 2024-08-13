@@ -33,11 +33,19 @@ While Shield AI may not be th first defense focused AI company. There competitor
 
 ## Landscape
 
-- What field is the company in?
+Shield AI field of chose is civilian and military defense
 
-- What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+## Industry Trends
 
-- What are the other major companies in this field?
+Over the last 10 years AI and military defense have seen dramatic changes. Mostly in the form of increased integration of AI into various defense systems such as the development of [autonomous vehicles](https://www.tesla.com/), [swarm systems](https://shield.ai/nova-2/), [AI-powered decision support](https://www.palantir.com/), [human-AI team-ups](https://shield.ai/hivemind/), and [AI in surveillance](https://smartsentryai.com/).
+
+## Other Major Players
+
+- [Anduril Industries](https://www.anduril.com/): Offers defense products including drones, surveillance systems and technologies for border control
+
+- [AeroVironment](https://www.avinc.com/): Industry veteran with decades of experience building unmanned arial systems (UAS)
+
+- [Skydio](https://www.skydio.com/): Mostly known for making consumer drones Skydio also has defense contracts
 
 ## Results
 
