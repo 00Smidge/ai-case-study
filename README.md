@@ -1,17 +1,17 @@
 # AI-CASE-STUDY
 
-Module 1 Challenge. Learning how to write a comprehensive README.md using a README.md template and existing AI companies as case study
+**_Module 1 Challenge. Learning how to write a comprehensive README.md using a README.md template and existing AI companies as case study_**
 
 - [Shield AI](https://shield.ai/)
 
 - Shield AI was incorporated in 2015.
 
-## Founders
+## **Founders**
 
 - CEO & CO-Found [Ryan Tseng](https://shield.ai/about-us/company-executives/ryan-tseng/)
 - PRESIDENT & CO-Found [Brandon Tseng](https://shield.ai/about-us/company-executives/brandon-tseng/)
 
-## Origin Story
+## _Origin Story_
 
 While serving with SEAL team 5 & 7 President and co-founder [Brandon Tseng](https://shield.ai/about-us/company-executives/brandon-tseng/) saw first hand the heavy toll bad intel, loss of communication, or having to follow orders based on incomplete information could lay at the feet of men on the ground. When Brandon started Shield AI in 2015 his mission was to build the best autonomous battle ready AI to aid and project soldiers in the field.
 
@@ -21,7 +21,7 @@ Shield AI is funded through various capital ventures, notably [Andreessen Horowi
 
 ## Mission Statement
 
-"Our mission is to protect service members and civilians with intelligent systems."
+> "Our mission is to protect service members and civilians with intelligent systems."
 
 ## Audience
 
