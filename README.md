@@ -66,13 +66,11 @@ In September of 2023 Shield AI announced they had successfully completed a demon
 
 ## Competitive Metrics
 
-![Metric comparing Shield AI to Anduril, Northrop Grumman, and XTEND](./Screenshot%202024-08-13%20at%2009.32.09.png)
-
-- How is your company performing relative to competitors in the same field?
+![Metric comparing Shield AI to Anduril, Northrop Grumman, and XTEND](./shieldai_competative_metrics.png)
 
 ## Recommendations
 
-- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I were to give any suggestion to Shield AI it would be to simply
 
 - Why do you think that offering this product or service would benefit the company?
 
