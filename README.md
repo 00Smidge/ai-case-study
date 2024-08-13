@@ -1,6 +1,6 @@
 # AI-CASE-STUDY
 
-## Module 1 Challenge. Learning how to write a comprehensive README.md using a README.md template and existing AI companies as case study
+Module 1 Challenge. Learning how to write a comprehensive README.md using a README.md template and existing AI companies as case study
 
 - [Shield AI](https://shield.ai/)
 
@@ -27,7 +27,7 @@ Our mission is to protect service members and civilians with intelligent systems
 
 Shield AI focuses exclusively on making systems for the civilian and military defense forces.
 
-Shield AI seems to be the first defense focused AI company. While there are other companies in defense that have AI division such as [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning), and [Anduril](https://www.anduril.com/)
+While Shield AI may not be th first defense focused AI company. There competitors, such as [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning), and [Anduril](https://www.anduril.com/), while big names in the game they don't have Shield AI's simplified vision and goal. Shield AI's [Hivemind](https://shield.ai/hivemind/) however is a world first. Being able to communicate to other AI craft autonomously.
 
 - Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
