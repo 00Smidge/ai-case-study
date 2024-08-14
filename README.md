@@ -1,7 +1,5 @@
 # AI-CASE-STUDY
 
-**_Module 1 Challenge. Learning how to write a comprehensive README.md using a README.md template and existing AI companies as case study_**
-
 - [Shield AI](https://shield.ai/)
 
 - Shield AI was incorporated in 2015.
