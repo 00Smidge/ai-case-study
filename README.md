@@ -15,7 +15,7 @@ While serving with SEAL team 5 & 7 President and co-founder [Brandon Tseng](http
 
 ## Funding
 
-Shield AI is funded through various capital ventures, notably [Andreessen Horowitz](https://a16z.com/) and [Homebrew](brew.sh). Their latest [Series F funding](https://markets.businessinsider.com/news/stocks/shield-ai-raises-200m-reaching-2-7b-valuation-1032759153) has them valued at $2.7B.
+Shield AI is funded through various capital ventures, notably [Andreessen Horowitz](https://a16z.com/) and [Homebrew](http://brew.sh). Their latest [Series F funding](https://markets.businessinsider.com/news/stocks/shield-ai-raises-200m-reaching-2-7b-valuation-1032759153) has them valued at $2.7B.
 
 ## Mission Statement
 
@@ -91,5 +91,5 @@ Shield AI has already shown they are capable of extending the use life of legacy
 - [deep tech](https://builtin.com/artificial-intelligence/deep-tech)
 - [Series F funding](https://markets.businessinsider.com/news/stocks/shield-ai-raises-200m-reaching-2-7b-valuation-1032759153)
 - [Andreessen Horowitz](https://a16z.com/)
-- [Homebrew](brew.sh)
+- [Homebrew](https://brew.sh)
 - [Northrop Grumman](https://www.northropgrumman.com/what-we-do/artificial-intelligence-and-machine-learning)
